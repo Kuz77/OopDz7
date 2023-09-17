@@ -1,0 +1,25 @@
+Addition: OOPDZ7.ComplexNumber@723279cf + OOPDZ7.ComplexNumber@2f4d3709 = OOPDZ7.ComplexNumber@4e50df2e
+Multiplication: OOPDZ7.ComplexNumber@723279cf * OOPDZ7.ComplexNumber@2f4d3709 = OOPDZ7.ComplexNumber@4edde6e5
+Division: OOPDZ7.ComplexNumber@723279cf / OOPDZ7.ComplexNumber@2f4d3709 = OOPDZ7.ComplexNumber@70177ecd
+Addition: ComplexNumber{realPart=2.0, imaginaryPart=2.0} + ComplexNumber{realPart=3.0, imaginaryPart=4.0} = ComplexNumber{realPart=5.0, imaginaryPart=6.0}
+Multiplication: ComplexNumber{realPart=2.0, imaginaryPart=2.0} * ComplexNumber{realPart=3.0, imaginaryPart=4.0} = ComplexNumber{realPart=-2.0, imaginaryPart=14.0}
+Division: ComplexNumber{realPart=2.0, imaginaryPart=2.0} / ComplexNumber{realPart=3.0, imaginaryPart=4.0} = ComplexNumber{realPart=0.56, imaginaryPart=-0.08}
+Addition: ComplexNumber{realPart=2.0, imaginaryPart=2.0} + ComplexNumber{realPart=3.0, imaginaryPart=4.0} = ComplexNumber{realPart=5.0, imaginaryPart=6.0}
+Multiplication: ComplexNumber{realPart=2.0, imaginaryPart=2.0} * ComplexNumber{realPart=3.0, imaginaryPart=4.0} = ComplexNumber{realPart=-2.0, imaginaryPart=14.0}
+Division: ComplexNumber{realPart=2.0, imaginaryPart=2.0} / ComplexNumber{realPart=3.0, imaginaryPart=4.0} = ComplexNumber{realPart=0.56, imaginaryPart=-0.08}
+Addition: ComplexNumber{realPart=2.0, imaginaryPart=2.0} + ComplexNumber{realPart=3.0, imaginaryPart=4.0} = ComplexNumber{realPart=5.0, imaginaryPart=6.0}
+Multiplication: ComplexNumber{realPart=2.0, imaginaryPart=2.0} * ComplexNumber{realPart=3.0, imaginaryPart=4.0} = ComplexNumber{realPart=-2.0, imaginaryPart=14.0}
+Division: ComplexNumber{realPart=2.0, imaginaryPart=2.0} / ComplexNumber{realPart=3.0, imaginaryPart=4.0} = ComplexNumber{realPart=0.56, imaginaryPart=-0.08}
+Addition: ComplexNumber{realPart=2.0, imaginaryPart=2.0} + ComplexNumber{realPart=3.0, imaginaryPart=4.0} = ComplexNumber{realPart=5.0, imaginaryPart=6.0}
+Multiplication: ComplexNumber{realPart=2.0, imaginaryPart=2.0} * ComplexNumber{realPart=3.0, imaginaryPart=4.0} = ComplexNumber{realPart=-2.0, imaginaryPart=14.0}
+Division: ComplexNumber{realPart=2.0, imaginaryPart=2.0} / ComplexNumber{realPart=3.0, imaginaryPart=4.0} = ComplexNumber{realPart=0.56, imaginaryPart=-0.08}
+Addition: ComplexNumber{realPart=2.0, imaginaryPart=2.0} + ComplexNumber{realPart=3.0, imaginaryPart=4.0} = ComplexNumber{realPart=5.0, imaginaryPart=6.0}
+Multiplication: ComplexNumber{realPart=2.0, imaginaryPart=2.0} * ComplexNumber{realPart=3.0, imaginaryPart=4.0} = ComplexNumber{realPart=-2.0, imaginaryPart=14.0}
+Division: ComplexNumber{realPart=2.0, imaginaryPart=2.0} / ComplexNumber{realPart=3.0, imaginaryPart=4.0} = ComplexNumber{realPart=0.56, imaginaryPart=-0.08}
+Addition: ComplexNumber{realPart=5.0, imaginaryPart=2.0} + ComplexNumber{realPart=5.0, imaginaryPart=2.0} = ComplexNumber{realPart=10.0, imaginaryPart=4.0}
+Multiplication: ComplexNumber{realPart=5.0, imaginaryPart=2.0} * ComplexNumber{realPart=5.0, imaginaryPart=2.0} = ComplexNumber{realPart=21.0, imaginaryPart=20.0}
+Division: ComplexNumber{realPart=5.0, imaginaryPart=2.0} / ComplexNumber{realPart=5.0, imaginaryPart=2.0} = ComplexNumber{realPart=1.0, imaginaryPart=0.0}
+Division: ComplexNumber{realPart=2.0, imaginaryPart=2.0} / ComplexNumber{realPart=3.0, imaginaryPart=4.0} = ComplexNumber{realPart=0.56, imaginaryPart=-0.08}
+Division: ComplexNumber{realPart=1.0, imaginaryPart=1.0} / ComplexNumber{realPart=2.0, imaginaryPart=2.0} = ComplexNumber{realPart=0.5, imaginaryPart=0.0}
+Division: ComplexNumber{realPart=1.0, imaginaryPart=1.0} / ComplexNumber{realPart=1.0, imaginaryPart=1.0} = ComplexNumber{realPart=1.0, imaginaryPart=0.0}
+Minus: ComplexNumber{realPart=2.0, imaginaryPart=2.0} / ComplexNumber{realPart=1.0, imaginaryPart=1.0} = ComplexNumber{realPart=1.0, imaginaryPart=1.0}
